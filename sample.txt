@@ -1,0 +1,4 @@
+Hello Github!
+
+This is my first AWS S3 automation project
+using Python and Boto3.
